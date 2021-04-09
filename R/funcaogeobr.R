@@ -8,7 +8,7 @@
 #'
 #'@examples \dontrun{
 #'library(teste)
-#'c <- funcaogeobr()
+#'c<-funcaogeobr()
 #'
 #'}
 
