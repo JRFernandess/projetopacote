@@ -12,8 +12,12 @@ Funcao retorna bioma pampa
 \examples{
 \dontrun{
 library(teste)
-c <- funcaogeobr()
+c<-funcaogeobr()
 
 }
+}
+\seealso{
+Other funcoes gerais: 
+\code{\link{funcaoshape}()}
 }
 \concept{funcoes gerais}
